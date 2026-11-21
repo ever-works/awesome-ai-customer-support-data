@@ -1,18 +1,21 @@
-company_name: "Awesome AI Customer Support"
+company_name: Awesome AI Customer Support
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome AI Customer Support"
-initial_prompt: "A curated directory of AI support agents, help-desk copilots and support-automation tools. Include products such as Intercom Fin, Decagon, Sierra, Zendesk AI Agents, Ada, Forethought, Gorgias AI, Siena AI, Chatbase, Kustomer, Crescendo, Chatwoot, plus other notable commercial and open-source options. Categories: AI Support Agents, Help-Desk AI Add-ons, Chatbot Builders, Voice Support Agents, Support QA & Analytics, Open Source. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-ai-customer-support-website"
-company_website: "https://ai-support.ever.works"
+name: Awesome AI Customer Support
+initial_prompt: "A curated directory of AI support agents, help-desk copilots
+  and support-automation tools. Include products such as Intercom Fin, Decagon,
+  Sierra, Zendesk AI Agents, Ada, Forethought, Gorgias AI, Siena AI, Chatbase,
+  Kustomer, Crescendo, Chatwoot, plus other notable commercial and open-source
+  options. Categories: AI Support Agents, Help-Desk AI Add-ons, Chatbot
+  Builders, Voice Support Agents, Support QA & Analytics, Open Source. For every
+  item capture the official website, a short factual description, pricing model
+  (free, freemium, paid, open source), deployment (cloud or self-hosted), key
+  features and integrations."
+website_repo: ever-works/awesome-ai-customer-support-website
+company_website: https://ai-support.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +32,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
