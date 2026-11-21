@@ -1,0 +1,13 @@
+name: "Intercom Fin"
+description: "Intercom Fin is an AI chatbot powered by OpenAI models that resolves customer queries using support content. It integrates with the Intercom customer service platform and can hand off to human agents."
+source_url: "https://www.intercom.com/"
+category: "AI Support Agents"
+tags:
+  - "ai-powered"
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "customer-support"
+icon_url: "https://icons.duckduckgo.com/ip3/www.intercom.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.intercom.com/>\n"
+updated_at: "2026-11-21 00:54"

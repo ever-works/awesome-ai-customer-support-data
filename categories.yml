@@ -1,0 +1,12 @@
+- id: ai-support-agents
+  name: "AI Support Agents"
+- id: help-desk-ai-add-ons
+  name: "Help-Desk AI Add-ons"
+- id: chatbot-builders
+  name: "Chatbot Builders"
+- id: voice-support-agents
+  name: "Voice Support Agents"
+- id: support-qa-and-analytics
+  name: "Support QA & Analytics"
+- id: open-source
+  name: "Open Source"

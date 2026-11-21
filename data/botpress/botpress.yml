@@ -1,0 +1,13 @@
+name: "Botpress"
+description: "Botpress is an open-source chatbot builder for creating LLM-powered conversational agents, with cloud and self-hosted deployment options."
+source_url: "https://botpress.com/"
+category: "Chatbot Builders"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "chatbot-builder"
+icon_url: "https://icons.duckduckgo.com/ip3/botpress.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://botpress.com/>\n- Repository: <https://github.com/botpress/botpress>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 00:54"

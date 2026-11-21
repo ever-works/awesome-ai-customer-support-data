@@ -1,0 +1,13 @@
+name: "Typebot"
+description: "Typebot is an open-source conversational app builder for creating chatbots and lead forms, offering self-hosting and a cloud SaaS version."
+source_url: "https://typebot.io/"
+category: "Chatbot Builders"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "api"
+  - "chatbot-builder"
+icon_url: "https://icons.duckduckgo.com/ip3/typebot.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://typebot.io/>\n- Repository: <https://github.com/baptisteArno/typebot.io>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 00:54"

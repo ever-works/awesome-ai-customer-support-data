@@ -1,0 +1,12 @@
+name: "Chatbase"
+description: "Chatbase is a chatbot builder that lets users train custom GPT models on their data and embed AI support widgets on websites or integrate via API."
+source_url: "https://www.chatbase.co/"
+category: "Chatbot Builders"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "api"
+  - "chatbot-builder"
+icon_url: "https://icons.duckduckgo.com/ip3/www.chatbase.co.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.chatbase.co/>\n"
+updated_at: "2026-11-21 00:54"

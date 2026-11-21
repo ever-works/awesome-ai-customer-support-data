@@ -1,0 +1,13 @@
+name: "Zendesk AI Agents"
+description: "Zendesk AI Agents are generative AI bots built into the Zendesk Suite, designed to automate customer interactions and assist agents within the Zendesk help desk environment."
+source_url: "https://www.zendesk.com/"
+category: "Help-Desk AI Add-ons"
+tags:
+  - "ai-powered"
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "help-desk"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zendesk.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.zendesk.com/>\n"
+updated_at: "2026-11-21 00:54"

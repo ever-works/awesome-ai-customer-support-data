@@ -1,0 +1,42 @@
+- id: ai-powered
+  name: "AI-Powered"
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: customer-support
+  name: "Customer Support"
+- id: help-desk
+  name: "Help Desk"
+- id: voice
+  name: "Voice"
+- id: ecommerce
+  name: "Ecommerce"
+- id: freemium
+  name: "Freemium"
+- id: chatbot-builder
+  name: "Chatbot Builder"
+- id: crm
+  name: "CRM"
+- id: outsourcing
+  name: "Outsourcing"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free-plan
+  name: "Free Plan"
+- id: live-chat
+  name: "Live Chat"
+- id: omnichannel
+  name: "Omnichannel"
+- id: sales
+  name: "Sales"
+- id: quality-assurance
+  name: "Quality Assurance"
+- id: nlp
+  name: "NLP"
+- id: llm
+  name: "LLM"
